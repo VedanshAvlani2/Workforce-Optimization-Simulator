@@ -1,0 +1,37 @@
+EmployeeID,Group,Skill,Min_Hours,Max_Hours,Education,JoiningYear,City,PaymentTier,Age_x,Gender_x,EverBenched,ExperienceInCurrentDomain,LeaveOrNot,Employee_ID,Department,Gender_y,Age_y,Job_Title,Hire_Date,Years_At_Company,Education_Level,Performance_Score,Monthly_Salary,Work_Hours_Per_Week,Projects_Handled,Overtime_Hours,Sick_Days,Remote_Work_Frequency,Team_Size,Training_Hours,Promotions,Employee_Satisfaction_Score,Resigned,EmployeeName,Start time,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+1,a,0,30,45,Bachelors,2017,Bangalore,3,34,Male,No,0,0,1,IT,Male,55,Specialist,2022-01-19 08:03:05.556036,2,High School,5,6750.0,33,32,22,2,0,14,66,0,2.63,False,Blanche,18:00:00,1,1,1,1,1,1,0
+2,a,0,30,40,Bachelors,2013,Pune,1,28,Female,No,3,1,2,Finance,Male,29,Developer,2024-04-18 08:03:05.556036,0,High School,5,7500.0,34,34,13,14,100,12,61,2,1.72,False,Doris,18:00:00,1,1,1,1,1,0,0
+3,a,0,30,40,Bachelors,2014,New Delhi,3,38,Female,No,2,0,3,Finance,Male,55,Specialist,2015-10-26 08:03:05.556036,8,High School,3,5850.0,37,27,6,3,50,10,1,0,3.17,False,Jerrod,18:00:00,1,0,1,1,1,1,0
+4,a,0,30,40,Masters,2016,Bangalore,3,27,Male,No,5,1,4,Customer Support,Female,48,Analyst,2016-10-22 08:03:05.556036,7,Bachelor,2,4800.0,52,10,28,12,100,10,0,1,1.86,False,Geraldo,18:00:00,0,1,1,1,1,1,0
+5,a,0,30,40,Masters,2017,Pune,3,24,Male,Yes,2,1,5,Engineering,Female,36,Analyst,2021-07-23 08:03:05.556036,3,Bachelor,2,4800.0,38,11,29,13,100,15,9,1,1.25,False,Frank,18:00:00,1,1,1,1,0,0,0
+6,a,0,30,40,Bachelors,2016,Bangalore,3,22,Male,No,0,0,6,IT,Male,43,Manager,2016-08-14 08:03:05.556036,8,High School,3,7800.0,46,31,8,0,100,15,95,0,2.77,False,Magaret,18:00:00,1,0,0,0,1,1,0
+7,b,0,30,40,Bachelors,2015,New Delhi,3,38,Male,No,0,0,7,IT,Male,37,Technician,2023-08-28 08:03:05.556036,1,Bachelor,5,5250.0,55,20,29,2,0,16,27,0,4.46,False,Ivory,18:00:00,1,1,1,1,1,1,0
+8,b,0,30,52,Bachelors,2016,Bangalore,3,34,Female,No,2,1,8,Engineering,Female,55,Engineer,2014-10-27 08:03:05.556036,9,Bachelor,2,7200.0,42,46,7,8,100,7,64,0,2.09,False,Kiersten,18:00:00,1,1,1,1,1,1,0
+9,b,0,30,40,Bachelors,2016,Pune,3,23,Male,No,1,0,9,Marketing,Female,55,Technician,2023-06-29 08:03:05.556036,1,High School,2,4200.0,51,23,21,14,0,1,0,1,1.44,False,Carleen,18:00:00,1,0,1,1,1,1,0
+10,b,0,30,40,Masters,2017,New Delhi,2,37,Male,No,2,0,10,Engineering,Female,45,Consultant,2016-12-23 08:03:05.556036,7,Bachelor,1,6050.0,41,33,2,6,75,4,53,2,2.93,False,Ozie,18:00:00,1,1,1,1,1,1,0
+11,b,0,30,40,Masters,2012,Bangalore,3,27,Male,No,5,1,11,Customer Support,Male,52,Engineer,2019-11-26 08:03:05.556036,4,Bachelor,3,7800.0,38,1,5,0,25,4,90,1,2.34,False,Kira,18:00:00,1,1,1,1,1,1,0
+12,b,0,30,40,Bachelors,2016,Pune,3,34,Male,No,3,0,12,Customer Support,Male,27,Technician,2015-02-19 08:03:05.556036,9,Bachelor,5,5250.0,39,13,2,13,25,5,88,0,1.96,False,Linette,18:00:00,1,1,1,1,1,0,0
+13,b,0,30,40,Bachelors,2018,Pune,3,32,Male,Yes,5,1,13,HR,Male,51,Technician,2019-07-04 08:03:05.556036,5,Bachelor,4,4900.0,31,11,16,1,75,7,17,2,2.13,False,Mose,18:00:00,0,1,1,1,1,1,0
+14,b,0,30,40,Bachelors,2016,Bangalore,3,39,Male,No,2,0,14,Engineering,Male,27,Analyst,2014-10-14 08:03:05.556036,9,Bachelor,4,5600.0,33,30,5,13,25,4,26,1,1.46,False,Ivy,18:00:00,1,1,1,1,1,0,0
+15,b,0,30,40,Bachelors,2012,Bangalore,3,37,Male,No,4,0,15,Finance,Male,46,Analyst,2023-03-11 08:03:05.556036,1,Master,1,4400.0,33,49,13,1,100,13,37,1,2.22,False,Loriann,18:00:00,1,0,1,1,1,1,0
+16,b,1,30,40,Bachelors,2017,Bangalore,1,29,Male,No,3,0,16,Customer Support,Male,26,Developer,2023-04-19 08:03:05.556036,1,High School,2,6000.0,33,41,9,13,50,3,46,1,2.42,False,Lanette,18:00:00,1,1,1,1,1,1,0
+17,b,1,30,40,Bachelors,2014,Bangalore,3,34,Female,No,2,0,17,Operations,Male,29,Engineer,2019-09-21 08:03:05.556036,4,Bachelor,2,7200.0,43,26,29,12,0,6,76,2,3.15,False,Vivian,18:00:00,1,1,1,1,0,0,0
+18,b,1,30,40,Bachelors,2014,Pune,3,34,Male,No,4,0,18,Sales,Other,28,Developer,2022-11-08 08:03:05.556036,1,High School,3,6500.0,47,36,6,12,75,12,54,0,1.19,False,Shanice,18:00:00,0,1,1,1,1,1,0
+19,b,0,30,40,Bachelors,2015,Pune,2,30,Female,No,0,1,19,Customer Support,Other,56,Developer,2015-10-01 08:03:05.556036,8,Bachelor,1,5500.0,57,9,24,1,75,1,36,0,1.12,False,Janis,18:00:00,1,0,0,0,1,1,0
+20,b,0,30,40,Bachelors,2016,New Delhi,2,22,Female,No,0,1,20,Finance,Male,23,Technician,2015-05-08 08:03:05.556036,9,High School,2,4200.0,52,0,9,1,0,5,66,0,3.91,False,Reena,18:00:00,1,1,1,1,1,1,0
+21,c,0,30,52,Bachelors,2012,Bangalore,3,37,Male,No,0,0,21,Operations,Female,33,Manager,2022-12-19 08:03:05.556036,1,Bachelor,1,6600.0,33,28,13,13,50,15,53,2,3.7,False,Dexter,22:00:00,1,1,1,1,1,1,1
+22,c,0,30,40,Masters,2017,New Delhi,2,28,Male,No,4,0,22,Sales,Male,59,Manager,2017-05-25 08:03:05.556036,7,Master,5,9000.0,30,22,9,2,25,4,20,0,4.66,False,Fumiko,22:00:00,0,1,1,0,1,1,1
+23,c,0,30,40,Bachelors,2017,New Delhi,2,36,Male,No,3,0,23,Finance,Male,26,Specialist,2016-07-23 08:03:05.556036,8,High School,4,6300.0,48,40,9,13,0,13,71,2,3.68,False,Verona,22:00:00,1,1,1,1,1,1,1
+24,c,0,30,40,Bachelors,2015,Bangalore,3,27,Male,Yes,5,0,24,Sales,Male,58,Consultant,2018-01-21 08:03:05.556036,6,Master,2,6600.0,55,2,28,8,25,6,78,2,4.26,False,Maribel,22:00:00,1,1,1,1,1,1,1
+25,d,0,30,40,Bachelors,2017,Bangalore,3,29,Male,No,4,0,25,HR,Female,38,Analyst,2018-06-23 08:03:05.556036,6,Bachelor,2,4800.0,50,21,24,11,25,7,49,1,4.43,False,Annett,23:00:00,1,1,1,1,1,0,1
+26,d,0,30,40,Bachelors,2013,Bangalore,3,22,Female,Yes,0,0,26,Customer Support,Male,38,Specialist,2022-05-03 08:03:05.556036,2,Bachelor,5,6750.0,59,24,0,13,25,3,9,2,2.12,False,Keli,23:00:00,1,1,1,1,1,1,1
+27,d,1,30,40,Bachelors,2016,Bangalore,3,37,Male,No,2,0,27,Finance,Male,45,Engineer,2021-07-12 08:03:05.556036,3,Bachelor,2,7200.0,59,24,23,6,0,7,26,1,3.16,False,Charolette,23:00:00,0,1,1,1,1,0,1
+28,d,0,30,40,Bachelors,2015,Bangalore,3,23,Male,No,1,0,28,Legal,Male,43,Manager,2014-11-22 08:03:05.556036,9,Master,3,7800.0,44,42,3,10,75,4,45,2,1.35,True,Phung,23:00:00,1,0,1,1,1,1,1
+29,d,0,30,40,Bachelors,2013,Pune,2,31,Female,No,2,1,29,Engineering,Male,53,Specialist,2022-04-17 08:03:05.556036,2,Bachelor,2,5400.0,31,34,14,6,50,6,42,1,4.52,False,Jennifer,23:00:00,1,1,1,1,1,1,1
+30,d,0,30,40,Masters,2017,New Delhi,2,30,Female,No,2,0,30,Finance,Male,52,Analyst,2023-06-21 08:03:05.556036,1,High School,3,5200.0,45,25,29,9,25,2,37,2,4.95,False,Imelda,23:00:00,1,1,1,1,0,0,0
+31,d,1,30,40,PHD,2013,New Delhi,3,25,Male,No,3,0,31,Customer Support,Male,58,Consultant,2018-05-14 08:03:05.556036,6,Bachelor,1,6050.0,38,15,25,2,50,12,16,2,4.65,False,Elmo,23:00:00,1,1,1,1,1,1,1
+32,d,0,30,40,Bachelors,2014,Bangalore,3,23,Male,No,1,0,32,Legal,Female,24,Manager,2023-06-12 08:03:05.556036,1,High School,4,8400.0,39,25,7,7,50,18,22,0,1.95,False,Emile,23:00:00,0,0,1,1,1,1,1
+33,d,0,30,47,Bachelors,2018,Bangalore,3,26,Male,No,4,1,33,Customer Support,Male,29,Analyst,2024-06-13 08:03:05.556036,0,High School,2,4800.0,48,49,16,14,50,17,37,0,4.43,False,Lonny,23:00:00,1,1,1,1,1,1,1
+34,d,0,30,40,Bachelors,2016,Bangalore,3,40,Male,No,5,0,34,Sales,Female,25,Engineer,2021-09-11 08:03:05.556036,2,PhD,4,8400.0,44,26,24,8,75,18,37,2,2.1,False,Maia,23:00:00,1,1,1,1,1,1,1
+35,d,0,30,40,Bachelors,2017,Pune,2,37,Female,No,0,1,35,Marketing,Male,41,Analyst,2019-05-23 08:03:05.556036,5,Master,4,5600.0,34,13,0,10,75,14,36,1,1.94,False,Faye,23:00:00,1,0,1,1,1,1,1
+36,d,0,30,40,Bachelors,2014,Bangalore,1,30,Female,No,3,0,36,HR,Female,42,Engineer,2019-10-12 08:03:05.556036,4,Master,5,9000.0,31,9,18,11,100,8,21,1,4.21,False,Fonda,23:00:00,1,1,1,1,1,1,1
